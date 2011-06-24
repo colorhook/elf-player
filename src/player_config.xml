@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<sound-data>
+	<group type="My Tune">
+		<sound name="踏浪" path="music/踏浪.mp3" lyric="music/踏浪.lrc"/>
+		<sound name="无所谓" path="music/无所谓.mp3" lyric="music/无所谓.lrc"/>
+		<sound name="城里的月光" path="music/城里的月光.mp3" lyric="music/城里的月光.lrc"/>
+		<sound name="今天妳要嫁给我 " path="music/今天你要嫁给我.mp3" lyric="music/今天你要嫁给我.lrc"/>
+		<sound name="点燃一根烟" path="music/点燃一根烟.mp3" lyric="music/点燃一根烟.lrc"/>
+		<sound name="Never Grow Old" path="music/never grow old.mp3" lyric="music/never grow old.lrc"/>
+		<sound name="我们的歌" path="music/我们的歌.mp3" lyric="music/我们的歌.lrc"/>
+		<sound name="track01" path="music/never grow old.mp3" lyric="music/never grow old.lrc"/>
+		<sound name="track02" path="music/我们的歌.mp3" lyric="music/我们的歌.lrc"/>
+		<sound name="track03" path="music/never grow old.mp3" lyric="music/never grow old.lrc"/>
+		<sound name="track04" path="music/我们的歌.mp3" lyric="music/我们的歌.lrc"/>
+	</group>
+</sound-data>
